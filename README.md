@@ -1,4 +1,4 @@
-![image-20260602180525789](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602180525789.png)
+<img width="1280" height="720" alt="955726c1b155fab156a2c331da2d3c83_720" src="https://github.com/user-attachments/assets/7859fc5a-deda-4df2-a579-d2aa0a56f5e9" />
 
 # Open-Sakura
 
