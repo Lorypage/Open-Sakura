@@ -35,15 +35,17 @@
 
 ## 截图
 
-![image-20260602182217971](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602182217971.png)
+<img width="340" height="153" alt="image-20260602182217971" src="https://github.com/user-attachments/assets/6561f2ce-1d2c-403a-9926-aa413d2a65a3" />
 
-![image-20260602181004800](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181004800.png)
+<img width="1892" height="981" alt="image-20260602181004800" src="https://github.com/user-attachments/assets/04570646-2aab-4a44-9738-e4566617d812" />
 
 破甲时刻
 
-![image-20260602181752672](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181752672.png)GPT
+<img width="526" height="156" alt="image-20260602181752672" src="https://github.com/user-attachments/assets/4f310fdf-c7f6-4af5-a10c-4484ae56e508" />
+GPT
 
-![image-20260602181819079](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181819079.png)Claude
+<img width="411" height="189" alt="image-20260602181819079" src="https://github.com/user-attachments/assets/b0d1d1a9-eb66-4639-aad3-181d371962f7" />
+Claude
 
 ## 聊天记录
 
