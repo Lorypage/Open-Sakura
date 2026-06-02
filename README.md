@@ -5,6 +5,7 @@
 <p>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLV3-Red.svg" alt="License"/></a>
 
+> [!CAUTION]
 > 这个客户端的编码水平过于堪忧，严重怀疑秋奈的开发水平，因此如果你想要使用这个狗屎外挂我不推荐在主账户作弊
 
 **Open-Sakura** 是Sakura Minecraft 客户端的语义还原代码版本 ，完全是由**各大先进LLM**对字节码分析得到的。目标版本为 **Minecraft 1.21.11 Fabric**
