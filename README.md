@@ -53,23 +53,41 @@ Claude
 
 
 
-![image-20260602180904315](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602180904315.png)卡网挨打割手手
+<img width="252" height="322" alt="image-20260602180904315" src="https://github.com/user-attachments/assets/a0cd9d1c-cb4a-4a01-b2ef-2fa8759eea1a" />
 
-![image-20260602181353679](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181353679.png)狗叫中。。。
+卡网挨打割手手
 
-![image-20260602181417399](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181417399.png)IShowBypass!!!
+<img width="423" height="255" alt="image-20260602181353679" src="https://github.com/user-attachments/assets/6aa5fd34-7077-4bb3-89b4-25506739d9a1" />
 
-![image-20260602181451535](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181451535.png)FakeAB导致弹弹乐
+狗叫中。。。
 
-![image-20260602181530848](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181530848.png)GrimFull in Heypixel
+<img width="603" height="175" alt="image-20260602181417399" src="https://github.com/user-attachments/assets/f853f4bb-4b9b-4483-b8a7-6cadfe26275e" />
 
-![image-20260602181548557](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181548557.png)Grim50% in Heypixel
+IShowBypass!!!
 
-![image-20260602181617957](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181617957.png)赢了之后退出重进绕过检测
+<img width="685" height="1281" alt="image-20260602181451535" src="https://github.com/user-attachments/assets/19f62079-e485-43de-8afe-75196281c7b1" />
 
-![image-20260602181647623](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181647623.png)原地死号
+FakeAB导致弹弹乐
 
-![image-20260602181715563](C:\Users\Mon3trQwQ\AppData\Roaming\Typora\typora-user-images\image-20260602181715563.png)OD给脑子O坏了
+<img width="375" height="1155" alt="image-20260602181530848" src="https://github.com/user-attachments/assets/47505076-fe6d-4f7a-94f5-0faa14a8e379" />
+
+GrimFull in Heypixel
+
+<img width="640" height="450" alt="image-20260602181548557" src="https://github.com/user-attachments/assets/af768019-91f6-4d81-8b10-25ed167863f0" />
+
+Grim50% in Heypixel
+
+<img width="630" height="1478" alt="image-20260602181617957" src="https://github.com/user-attachments/assets/b1e93dcc-e0aa-4e00-9292-ff6835e25ec0" />
+
+赢了之后退出重进绕过检测
+
+<img width="740" height="1118" alt="image-20260602181647623" src="https://github.com/user-attachments/assets/20ae89ea-731d-4779-8f3e-af3294378539" />
+
+原地死号
+
+<img width="615" height="870" alt="image-20260602181715563" src="https://github.com/user-attachments/assets/c7d1f1e5-5487-4f7b-bf29-ef629f6bb93d" />
+
+OD给脑子O坏了
 
 
 
