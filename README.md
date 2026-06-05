@@ -38,8 +38,11 @@
 ## 破甲方法
 
 经过Opus 4.8长达18秒的分析，Opus认为所有的类由惨遭破甲的Zelix KlassMaster21和破甲的JNIC 3.5.1混淆。除了Zelix的Invoke Dynamic和String Encryption外，还有部分未参与任何计算的Interger \ Long变量花指令代码和仅在部分方法中出现的Flow混淆。
+
 然而Opus随即发现JAR内部并没有打包好的Native组件且JNIC破甲3.5.1不可以混淆MC 1.21.11客户端，随即认为这个JNICInclude其实是用于吓人的
+
 其中大部分类都可以经过小修小补的现有Zelix反混淆器与LLM完成，大部分Class都有一个虚假的JNICInclude保护，导致在Java层中所有的代码暴露无遗。但可能由于精神女人在割掉自己的格调的时候失血过多导致昏迷，即使你没有通过客户端认证也可以完整加载Mixin并初始化所有的Class。因此我们修补了一些字节码获得了第一份破甲版并将惨遭ZKM21混淆的类交由LLM进行分析。
+
 后续使用Opus 4.8对本项目经过长达6小时的修复和少量的人工修复，便得到了这份源码。
 
 ## 截图
