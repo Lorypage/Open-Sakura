@@ -112,7 +112,6 @@ OD给脑子O坏了
 ## 致谢
 
 - ChatGPT 5.5 xhigh和Claude Opus 4.8 max
-- ArbitraryOP(新时代LLM还原源代码)
-- BanCN(老手艺入还原源代码)
+- BanCN and AirFoundaition(老手艺入还原源代码)
 - LoveMon3tr(字节码修补)
 - 秋奈(使用单ZKM21破甲版导致轻易破解)
